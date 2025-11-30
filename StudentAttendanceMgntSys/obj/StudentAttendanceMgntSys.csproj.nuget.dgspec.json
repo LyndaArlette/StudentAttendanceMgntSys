@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lynda\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj": {}
+    "C:\\Users\\hello\\Source\\Repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lynda\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj": {
+    "C:\\Users\\hello\\Source\\Repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lynda\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj",
+        "projectUniqueName": "C:\\Users\\hello\\Source\\Repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj",
         "projectName": "StudentAttendanceMgntSys",
-        "projectPath": "C:\\Users\\Lynda\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj",
-        "packagesPath": "C:\\Users\\Lynda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lynda\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\obj\\",
+        "projectPath": "C:\\Users\\hello\\Source\\Repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj",
+        "packagesPath": "C:\\Users\\hello\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hello\\Source\\Repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lynda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
