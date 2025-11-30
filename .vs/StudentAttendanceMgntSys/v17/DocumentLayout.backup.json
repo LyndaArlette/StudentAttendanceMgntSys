@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\hello\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\studentattendance\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\studentattendance\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\hello\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\hello\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\studentattendance\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\studentattendance\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\hello\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\studentattendance\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hello\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Program.cs",
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Program.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "login.cshtml",
               "DocumentMoniker": "C:\\Users\\hello\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Pages\\StudentAttendance\\login.cshtml",
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Pages\\StudentAttendance\\login.cshtml",
