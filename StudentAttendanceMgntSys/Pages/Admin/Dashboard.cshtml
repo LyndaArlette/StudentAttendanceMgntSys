@@ -1,4 +1,30 @@
 ﻿@page
 @model StudentAttendanceMgntSys.Pages.Admin.DashboardModel
 @{
+    ViewData["Title"] = "Admin Dashboard";
 }
+
+<h1>Admin Dashboard</h1>
+
+<div>
+    <h3>Statistics</h3>
+    <p>Total Students: 1,254</p>
+    <p>Total Teachers: 48</p>
+    <p>Total Classes: 32</p>
+</div>
+
+<div>
+    <h3>Recent Activity</h3>
+    <ul>
+        <li>New student registered - John Doe</li>
+        <li>Attendance marked for Class 10A</li>
+        <li>Report generated for October</li>
+    </ul>
+</div>
+
+<div>
+    <h3>Quick Links</h3>
+    <a href="/Admin/Students">Manage Students</a> |
+    <a href="/Admin/Teachers">Manage Teachers</a> |
+    <a href="/Admin/Classes">Manage Classes</a>
+</div>
