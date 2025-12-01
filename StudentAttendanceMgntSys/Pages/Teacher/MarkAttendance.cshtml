@@ -1,0 +1,32 @@
+﻿@page
+@model StudentAttendanceMgntSys.Pages.Teacher.MarkAttendanceModel
+
+<h2>Mark Attendance</h2>
+
+<form method="post">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Student</th>
+                <th>Present</th>
+                <th>Absent</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model.Students)
+            {
+                <tr>
+                    <td>@student.Name</td>
+                    <td>
+                        <input type="radio" name="status_@student.Id" value="Present" checked />
+                    </td>
+                    <td>
+                        <input type="radio" name="status_@student.Id" value="Absent" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Submit Attendance</button>
+</form>

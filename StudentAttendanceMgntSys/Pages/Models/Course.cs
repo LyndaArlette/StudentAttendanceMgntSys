@@ -1,12 +1,9 @@
-﻿namespace StudentAttendanceMgntSys.Pages.Models
+﻿namespace StudentAttendanceMgntSys.Pages.Models  // Changed from .Models
 {
     public class Course
     {
-        public int Id { get; set; }
-        public required string Name { get; set; }
-        
-        public int TeacherId { get; set; }
-
-        public User? Teacher { get; set; }
+        public int CourseId { get; set; }
+        public string CourseName { get; set; } = string.Empty;
+        public string CourseCode { get; set; } = string.Empty;
     }
 }

@@ -1,4 +1,29 @@
 ﻿@page
-@model StudentAttendanceMgntSys.Pages.Teacher.DashboardModel
-@{
-}
+@model StudentAttendanceMgntSys.Pages.Teacher.TeacherDashboardModel
+
+<h2 class="text-center mb-4">Teacher Dashboard</h2>
+
+<div class="row">
+
+    <!-- Mark Attendance -->
+    <div class="col-md-4">
+        <a asp-page="/Teacher/MarkAttendance" class="btn btn-primary w-100">
+            Mark Today's Attendance
+        </a>
+    </div>
+
+    <!-- View Attendance -->
+    <div class="col-md-4">
+        <a asp-page="/Teacher/ViewAttendance" class="btn btn-success w-100">
+            View & Update Attendance
+        </a>
+    </div>
+
+    <!-- Reports -->
+    <div class="col-md-4">
+        <a asp-page="/Teacher/Reports" class="btn btn-info w-100">
+            Attendance Reports
+        </a>
+    </div>
+
+</div>
