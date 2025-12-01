@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\StudentAttendanceMgntSys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\user\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\models\\studentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\models\\studentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\user\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\teacher\\markattendance.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\teacher\\markattendance.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\user\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\models\\studentrecord.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\models\\studentrecord.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\user\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\models\\studentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|solutionrelative:studentattendancemgntsys\\pages\\models\\studentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D17091-F222-436F-A71A-CA9A6476920E}|StudentAttendanceMgntSys\\StudentAttendanceMgntSys.csproj|c:\\users\\user\\source\\repos\\studentattendancemgntsys\\studentattendancemgntsys\\pages\\teacher\\markattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,11 +98,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MarkAttendance.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Pages\\Teacher\\MarkAttendance.cshtml.cs",
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Pages\\Teacher\\MarkAttendance.cshtml.cs",
@@ -115,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentRecord.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Pages\\Models\\StudentRecord.cshtml",
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Pages\\Models\\StudentRecord.cshtml",
@@ -128,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentRecord.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Pages\\Models\\StudentRecord.cshtml.cs",
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Pages\\Models\\StudentRecord.cshtml.cs",
