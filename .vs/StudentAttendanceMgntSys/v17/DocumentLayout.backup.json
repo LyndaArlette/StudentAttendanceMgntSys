@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,6 +97,10 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MarkAttendance.cshtml.cs",
@@ -104,7 +108,7 @@
               "RelativeDocumentMoniker": "StudentAttendanceMgntSys\\Pages\\Teacher\\MarkAttendance.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\StudentAttendanceMgntSys\\StudentAttendanceMgntSys\\Pages\\Teacher\\MarkAttendance.cshtml.cs",
               "RelativeToolTip": "StudentAttendanceMgntSys\\Pages\\Teacher\\MarkAttendance.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T07:41:18.925Z",
               "EditorCaption": ""
@@ -277,10 +281,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T19:02:54.872Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
