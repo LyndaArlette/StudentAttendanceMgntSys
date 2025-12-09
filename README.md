@@ -1,100 +1,196 @@
-# Student Attendance Management System (SAMS)
+🎓 Student Attendance Management System (SAMS)
 
-## 📌 Overview
+A secure, smart, and modern attendance management platform for schools, colleges, and training institutions.
 
-SAMS replaces traditional attendance methods with a **fast, secure, and automated web solution** designed for schools, colleges, and training centers.
+SAMS replaces outdated manual attendance processes with a QR-based, automated, cheat-proof system built on ASP.NET Core Web API + Razor Pages.
 
-This system prevents proxy (fake) attendance by using **Smart Dynamic QR Codes** that expire and regenerate automatically.
-Students must be physically present to mark attendance, making the system far more reliable than typical classroom attendance apps.
+🚀 Key Features
+🧑‍💼 User Roles
+Role	Capabilities
+Super Admin	Manages entire system, admins, global settings
+Admin	Manages students, teachers, classes, timetable
+Teacher	Starts attendance sessions, generates QR, verifies attendance
+Student	Scans QR, views history, requests leave
+Parent (Portal)	Monitors student attendance & alerts
+🔐 Smart Dynamic QR Attendance (Anti-Proxy System)
 
----
+SAMS introduces dynamic, auto-refreshing QR codes to prevent misuse:
 
-## 🚀 Key Features
+QR regenerates every 15–30 seconds
 
-### 🔐 User Roles
+Cannot be screenshot-shared
 
-* **Admin**
+Linked with GPS / WiFi location verification
 
-  * Manage students, teachers, classes
-  * Assign teachers to classes
-  * View global reports
+QR tied to specific class + teacher + time
 
-* **Teacher**
+Backend checks:
 
-  * Start attendance sessions
-  * Generate dynamic QR codes
-  * Validate attendance (QR + location)
-  * View reports
+QR expiration
 
-* **Student**
+Student location
 
-  * Scan QR to mark attendance
-  * View attendance history
-  * Receive alerts
+Duplicate scans
 
----
+Suspicious/Fraud attempts (AI-based pattern detection)
 
-## 🆕 Innovative Feature: Smart Dynamic QR Attendance
+This ensures students must be physically present to mark attendance.
 
-Unlike typical apps, SAMS introduces **time-sensitive QR codes**:
+📊 Reporting & Analytics
 
-* QR regenerates every 15–30 seconds
-* Prevents screenshot sharing
-* Location verification ensures the student is present
-* System detects:
+Daily, weekly, monthly attendance analytics
 
-  * Fake scans
-  * Remote attempts
-  * Duplicate submissions
+Heatmaps & trend graphs
 
-This makes attendance **secure and cheat-proof**.
+Student-wise performance
 
----
+Class/department comparisons
 
-## 📊 Reporting & Analytics
+Automated low-attendance alerts
 
-* Daily summaries
-* Monthly attendance reports
-* Student attendance history
-* Low attendance alerts
+Export reports to PDF / Excel
 
----
+🗓 Timetable & Scheduling
 
-## 🛠 Technology Stack
+Official timetable management
 
-* **Backend:** Web Api
-* **Frontend:** Razor Pages
-* **Database:** SQL Server
-* **QR Code Generation:** QRCoder
-* **Location Verification:** Browser Geolocation API / WiFi-based checks
+Attendance session allowed only for scheduled class times
 
----
+Teachers cannot trigger attendance at random hours
 
-## 📂 Database Structure
+📩 Leave / Excuse Request Module
 
-### Tables:
+Students submit digital leave requests
 
-* **Users** (Admin/Teacher/Student)
-* **Students**
-* **Classes**
-* **Attendance**
-* **QRSession** *(For dynamic QR tracking)*
+Teachers review and approve/decline
 
----
+Leave auto-updates attendance reports
 
-## ▶️ How Attendance Works
+🔔 Smart Alerts & Notifications
 
-1. Teacher clicks **Start Attendance Session**
-2. System generates a **dynamic QR code**
-3. Students scan using their phone
-4. Backend verifies:
+Email/SMS notifications for:
 
-   * QR validity
-   * Time of scan
-   * Student location
-5. Attendance is recorded securely
+Low attendance
 
----
+Attendance session started/ended
 
+Leave approval status
+
+📱 Parent Portal
+
+Parents can view:
+
+Daily attendance
+
+Monthly report
+
+Alerts & warnings
+
+📝 Exam & Event Attendance
+
+QR-based or manual attendance for:
+
+Examinations
+
+School events
+
+Seminars / Activities
+
+🧠 AI-Based Fraud Detection
+
+Detects suspicious patterns such as:
+
+Frequent borderline attendance
+
+Same device used for multiple students
+
+Remote attendance attempts
+
+Repeated wrong location scans
+
+🔌 Offline Attendance Mode (Optional)
+
+Teachers can take attendance without internet:
+
+Local caching
+
+Auto-sync when connection is restored
+
+🛠 Technology Stack
+Layer	Technology
+Backend	ASP.NET Core Web API
+Frontend	Razor Pages
+Database	SQL Server
+QR Generation	QRCoder
+Auth	JWT / Identity
+Location Verification	Browser Geolocation API
+Reports	PDF/Excel generators
+AI Module	Pattern detection logic (custom rules/ML optional)
+🗄 Database Structure
+Core Tables
+
+Users (Role-based)
+
+Students
+
+Teachers
+
+Classes
+
+Timetable
+
+Attendance
+
+QRSession (tracks dynamic QR lifecycle)
+
+LeaveRequests
+
+ParentAccounts
+
+Notifications
+
+▶️ Attendance Workflow
+
+Teacher starts an attendance session
+
+Backend generates a dynamic QR code
+
+Students scan using phone
+
+System verifies:
+
+QR validity
+
+Time window
+
+Student location
+
+Unique device
+
+Attendance is securely recorded
+
+Reports update automatically
+
+📦 API Layer
+
+REST API endpoints for:
+
+Attendance
+
+Students
+
+Teachers
+
+Classes
+
+Leave requests
+
+Parent portal
+
+Reports
+
+QR sessions
+
+Used by Razor Pages and can be extended for mobile apps.
 
 
