@@ -1,0 +1,15 @@
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.csproj.AssemblyReference.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.AssemblyInfoInputs.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.AssemblyInfo.cs
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\bin\Debug\net9.0\SAMS.Infrastructure.deps.json
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\bin\Debug\net9.0\SAMS.Infrastructure.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\bin\Debug\net9.0\SAMS.Infrastructure.pdb
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\bin\Debug\net9.0\SAMS.Core.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\bin\Debug\net9.0\SAMS.Core.pdb
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Inf.3E976F77.Up2Date
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\refint\SAMS.Infrastructure.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\SAMS.Infrastructure.pdb
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Infrastructure\obj\Debug\net9.0\ref\SAMS.Infrastructure.dll
