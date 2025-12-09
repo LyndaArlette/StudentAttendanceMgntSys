@@ -1,0 +1,12 @@
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.AssemblyInfoInputs.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.AssemblyInfo.cs
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.csproj.CoreCompileInputs.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\bin\Debug\net9.0\SAMS.Core.deps.json
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\bin\Debug\net9.0\SAMS.Core.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\bin\Debug\net9.0\SAMS.Core.pdb
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.csproj.AssemblyReference.cache
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\refint\SAMS.Core.dll
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\SAMS.Core.pdb
+C:\AUCA\2025\Dot Net\SAMS\SAMS.Core\obj\Debug\net9.0\ref\SAMS.Core.dll
